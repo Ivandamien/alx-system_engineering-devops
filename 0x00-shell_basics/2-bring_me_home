@@ -1,1 +1,1 @@
-cd $(eval echo ~$(whoami))
+#!/bin/bash
